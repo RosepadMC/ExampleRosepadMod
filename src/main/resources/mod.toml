@@ -1,0 +1,12 @@
+name = "ExampleRosepadMod"
+id = "example-rosepad-mod"
+description = "Example mod for testing Rosepad Modding API"
+author = "buj"
+version = "0.0.0"
+url = "https://github.com/RosepadMC/ExampleRosepadMod.git"
+
+[main]
+both = "net.buj.ExampleRosepadMod.JavaMod"
+
+[dependencies]
+minecraft = "1.1.0.6-dev"
